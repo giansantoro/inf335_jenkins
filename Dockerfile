@@ -11,4 +11,4 @@ ADD OlaUnicamp.java .
 RUN javac OlaUnicamp.java
 
 # Rodar na imagem docker quando pronto
-CMD ["java
+CMD ["java", "OlaUnicamp"]
